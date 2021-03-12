@@ -1,0 +1,123 @@
+.header{
+    background: #23232e;
+    color:#fff;
+}
+
+.header h1{
+    text-transform: uppercase;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+
+.heading{
+    text-transform: uppercase;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.heading-light{
+    color: #fff;
+}
+
+.heading-dark{
+    color: #464b4f;
+}
+
+
+.header p{
+    max-width: 276px;
+    margin: auto;
+    font-size: 12px;
+    margin-bottom: 80px;
+}
+
+.header .logo{
+    width: 90px;
+    margin-top: 50px;
+}
+
+.header .bottom-arrow{
+    width: 30px;
+    margin-bottom: 50px;
+}
+
+
+.wedo{
+    padding: 80px 0;
+}
+
+.container{
+    max-width: 620px;
+}
+
+.wedo .wedo-text{
+    font-size: 20px;
+    color: #464b4f;
+    font-weight: 400;
+}
+
+.wedo-box h4{
+    font-size: 14px;
+    font-weight: 600;
+}
+.wedo-box p{
+    font-size: 12px;
+}
+
+.work{
+    background: #23232e;
+    padding: 80px 0;
+}
+
+.work-nav li a{
+    color: #fff;
+    font-size: 13px;
+    padding: 0;
+    margin: 14px;
+    padding-bottom: 4px;
+}
+
+.work-nav li:first-child a{
+    border-bottom: 2px solid #7b77c9;
+}
+
+.work-nav li:hover a{
+    border-bottom: 2px solid #7b77c9;
+}
+.work-des h5{
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+.work-des span{
+    font-size: 11px;
+    color: #818baa;
+}
+
+.btn-primary{
+    background: #7b77c9;
+    border-color: #7b77c9;
+    font-size: 13px;
+    text-transform: capitalize;
+    padding: 10px 30px;
+}
+
+.btn-primary:hover{
+    background: transparent;
+    color: #7b77c9;
+    border-color: #7b77c9;
+}
+
+
+
+.mt-6{
+    margin-top: 70px;
+}
+
+
+
+
